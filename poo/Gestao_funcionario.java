@@ -1,3 +1,4 @@
+package poo;
 class Funcionario{
     private String nome;
     private int id;

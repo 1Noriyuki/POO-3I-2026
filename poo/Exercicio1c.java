@@ -1,3 +1,4 @@
+package poo;
 import java.util.Scanner;
 public class Exercicio1c{
     public static void main(String[] args){
